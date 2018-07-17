@@ -2,7 +2,7 @@
 
 ## Authors
 - [Daniel Muchiri](https://github.com/daydroidmuchiri)
-- [tonnymuchui][https://github.com/tonnymuchui]
+- [tonnymuchui](https://github.com/tonnymuchui)
 - Add your clickable username here. It should point to your GitHub account.
 
 ## Project setup instructions
